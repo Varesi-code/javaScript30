@@ -1,3 +1,4 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # javaScript30
@@ -9,7 +10,7 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
   <summary><h2 style="display: inline-block"> Content </h2></summary>
   <ul>
     <li><a href="https://github.com/Varesi-code/javaScript30
-/tree/main/JsDrumKit">1 - JavaScript Drum Kit</a></li>
+/tree/main/01-JsDrumKit">1 - JavaScript Drum Kit</a></li>
     <li><a href="">2 - JS and CSS Clock</a></li>      
     <li><a href="">3 - CSS Variables</a></li>
     <li><a href="">4 - Array Cardio Day 1</a></li>
@@ -41,3 +42,6 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
     <li><a href="">30 - Whack A Mole</a></li>
   </ul>
 </details>
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/nataliavaresi
