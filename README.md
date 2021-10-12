@@ -8,7 +8,8 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
 <details open="open">
   <summary><h2 style="display: inline-block"> Content </h2></summary>
   <ul>
-    <li><a href="">1 - JavaScript Drum Kit</a></li>
+    <li><a href="https://github.com/Varesi-code/javaScript30
+/tree/main/JsDrumKit">1 - JavaScript Drum Kit</a></li>
     <li><a href="">2 - JS and CSS Clock</a></li>      
     <li><a href="">3 - CSS Variables</a></li>
     <li><a href="">4 - Array Cardio Day 1</a></li>
@@ -38,7 +39,5 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
     <li><a href="">28 - Video Speed Controller</a></li>
     <li><a href="">29 - Countdown Timer</a></li>
     <li><a href="">30 - Whack A Mole</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
   </ul>
 </details>
