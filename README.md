@@ -11,7 +11,8 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
   <ul>
     <li><a href="https://github.com/Varesi-code/javaScript30
 /tree/main/01-JsDrumKit">1 - JavaScript Drum Kit</a></li>
-    <li><a href="">2 - JS and CSS Clock</a></li>      
+    <li><a href="https://github.com/Varesi-code/javaScript30
+/tree/main/02-CSS+JSClock">2 - JS and CSS Clock</a></li>      
     <li><a href="">3 - CSS Variables</a></li>
     <li><a href="">4 - Array Cardio Day 1</a></li>
     <li><a href="">5 - Flex Panel Gallery</a></li>
