@@ -14,7 +14,8 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
     <li><a href="https://github.com/Varesi-code/javaScript30
 /tree/main/02-CSS+JSClock">2 - JS and CSS Clock</a></li>      
     <li><a href="https://github.com/Varesi-code/javaScript30/tree/main/03%20-%20CSS%20Variables">3 - CSS Variables</a></li>
-    <li><a href="">4 - Array Cardio Day 1</a></li>
+    <li><a href="https://github.com/Varesi-code/javaScript30
+/tree/main/04-ArrayCardioDay1">4 - Array Cardio Day 1</a></li>
     <li><a href="">5 - Flex Panel Gallery</a></li>
     <li><a href="">6 - Type Ahead</a></li>
     <li><a href="">7 - Array Cardio Day 2</a></li>
