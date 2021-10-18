@@ -18,7 +18,8 @@ A  vainilla JS a day. Based on @[wesbos'](https://github.com/wesbos) idea and [r
 /tree/main/04-ArrayCardioDay1">4 - Array Cardio Day 1</a></li>
     <li><a href="https://github.com/Varesi-code/javaScript30
 /tree/main/05-Flex Panel Gallery">5 - Flex Panel Gallery</a></li>
-    <li><a href="">6 - Type Ahead</a></li>
+    <li><a href="https://github.com/Varesi-code/javaScript30
+/tree/main/06-Type Ahead">6 - Type Ahead</a></li>
     <li><a href="">7 - Array Cardio Day 2</a></li>
     <li><a href="">8 - Fun with HTML5 Canvas</a></li>
     <li><a href="">9 - Dev Tools Domination</a></li>
